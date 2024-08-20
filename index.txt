@@ -1,0 +1,5 @@
+Q1: What is Java?
+A1: Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
+
+Q2: What are the main features of Java?
+A2: Some main features include platform independence, object-oriented, simple syntax, robust memory management, and security.
